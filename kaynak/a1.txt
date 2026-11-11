@@ -1,0 +1,1336 @@
+# Verben|Fiiller
+|sein|olmak
+|haben|sahip olmak
+|werden|olmak, -leşmek
+|können|-ebilmek
+|müssen|zorunda olmak
+|wollen|istemek
+|möchten|istemek (kibar)
+|dürfen|izinli olmak
+|sollen|-meli, -malı
+|mögen|sevmek, hoşlanmak
+|machen|yapmak
+|tun|yapmak, etmek
+|gehen|gitmek, yürümek
+|kommen|gelmek
+|fahren|(araçla) gitmek
+|fliegen|uçmak
+|laufen|yürümek, koşmak
+|sehen|görmek
+|hören|duymak, dinlemek
+|zuhören|kulak vermek
+|sprechen|konuşmak
+|sagen|söylemek
+|fragen|sormak
+|antworten|cevap vermek
+|erzählen|anlatmak
+|erklären|açıklamak
+|verstehen|anlamak
+|wissen|bilmek
+|kennen|tanımak
+|kennenlernen|tanışmak
+|lernen|öğrenmek
+|studieren|üniversitede okumak
+|lesen|okumak
+|schreiben|yazmak
+|buchstabieren|harf harf söylemek
+|wiederholen|tekrarlamak
+|üben|alıştırma yapmak
+|arbeiten|çalışmak
+|wohnen|oturmak, ikamet etmek
+|leben|yaşamak
+|heißen|adı … olmak
+|essen|yemek yemek
+|trinken|içmek
+|kochen|yemek pişirmek
+|backen|fırında pişirmek
+|grillen|mangal yapmak
+|frühstücken|kahvaltı etmek
+|schmecken|tadı … olmak
+|bestellen|sipariş etmek
+|bezahlen|ödemek
+|kaufen|satın almak
+|verkaufen|satmak
+|einkaufen|alışveriş yapmak
+|kosten|fiyatı … olmak
+|brauchen|ihtiyacı olmak
+|nehmen|almak
+|geben|vermek
+|bekommen|almak, edinmek
+|bringen|getirmek
+|holen|gidip getirmek
+|schicken|göndermek
+|schenken|hediye etmek
+|suchen|aramak
+|finden|bulmak
+|verlieren|kaybetmek
+|vergessen|unutmak
+|zeigen|göstermek
+|öffnen|açmak
+|schließen|kapatmak
+|aufmachen|açmak (kapı, pencere)
+|zumachen|kapatmak (kapı, pencere)
+|anmachen|açmak (ışık, cihaz)
+|ausmachen|kapatmak (ışık, cihaz)
+|beginnen|başlamak
+|anfangen|başlamak, girişmek
+|enden|bitmek
+|aufhören|bırakmak, sona ermek
+|warten|beklemek
+|bleiben|kalmak
+|stehen|ayakta durmak
+|sitzen|oturuyor olmak
+|liegen|yatıyor olmak
+|stellen|dik koymak
+|legen|yatırarak koymak
+|hängen|asmak, asılı olmak
+|schlafen|uyumak
+|aufstehen|kalkmak
+|duschen|duş almak
+|baden|banyo yapmak
+|waschen|yıkamak
+|putzen|temizlemek
+|aufräumen|toplamak, derlemek
+|anziehen|giymek
+|ausziehen|çıkarmak (giysi)
+|tragen|taşımak, giymek
+|spielen|oynamak
+|singen|şarkı söylemek
+|tanzen|dans etmek
+|schwimmen|yüzmek
+|wandern|doğa yürüyüşü yapmak
+|spazieren gehen|yürüyüşe çıkmak
+|Sport machen|spor yapmak
+|reisen|seyahat etmek
+|besuchen|ziyaret etmek
+|besichtigen|gezip görmek
+|sich treffen|buluşmak
+|einladen|davet etmek
+|feiern|kutlamak
+|gratulieren|tebrik etmek
+|danken|teşekkür etmek
+|helfen|yardım etmek
+|bitten|rica etmek
+|entschuldigen|affetmek
+|glauben|inanmak, sanmak
+|denken|düşünmek
+|meinen|demek istemek
+|hoffen|ummak
+|lieben|sevmek
+|gefallen|hoşa gitmek
+|sich freuen|sevinmek
+|lachen|gülmek
+|weinen|ağlamak
+|anrufen|telefon etmek
+|telefonieren|telefonla konuşmak
+|ankommen|varmak
+|abfahren|hareket etmek (araç)
+|abfliegen|kalkmak (uçak)
+|einsteigen|binmek
+|aussteigen|inmek
+|umsteigen|aktarma yapmak
+|abholen|gidip almak
+|mitbringen|yanında getirmek
+|mitkommen|birlikte gelmek
+|mitmachen|katılmak
+|mitnehmen|yanına almak
+|ausfüllen|doldurmak (form)
+|unterschreiben|imzalamak
+|sich anmelden|kayıt olmak
+|sich vorstellen|kendini tanıtmak
+|sich setzen|oturmak (eylem)
+|abgeben|teslim etmek
+|fernsehen|televizyon izlemek
+|anschauen|bakmak, izlemek
+|ausgehen|dışarı çıkmak
+|aussehen|görünmek
+|rauchen|sigara içmek
+|reparieren|tamir etmek
+|benutzen|kullanmak
+|funktionieren|çalışmak (cihaz)
+|drucken|yazdırmak
+|parken|park etmek
+|mieten|kiralamak
+|vermieten|kiraya vermek
+|umziehen|taşınmak
+|heiraten|evlenmek
+|sterben|ölmek
+|regnen|yağmur yağmak
+|schneien|kar yağmak
+|scheinen|parlamak (güneş)
+|passieren|olmak (olay)
+|fehlen|eksik olmak
+|gehören|ait olmak
+|stimmen|doğru olmak
+|dauern|sürmek
+|bedeuten|anlamına gelmek
+|lassen|bırakmak
+|ziehen|çekmek
+|drücken|itmek, basmak
+|halten|tutmak, durmak
+|fallen|düşmek
+|riechen|koklamak, kokmak
+|sich fühlen|kendini … hissetmek
+|wehtun|acımak, ağrımak
+|untersuchen|muayene etmek
+|erlauben|izin vermek
+|empfehlen|tavsiye etmek
+|wechseln|değiştirmek, bozdurmak
+|überweisen|havale etmek
+|reservieren|rezerve etmek
+|übernachten|gecelemek
+|packen|bavul hazırlamak
+|fotografieren|fotoğraf çekmek
+|malen|resim yapmak
+|bestehen|geçmek (sınav)
+|ansehen|seyretmek
+|zurückkommen|geri gelmek
+|vorbereiten|hazırlamak
+|ausruhen|dinlenmek
+|verdienen|kazanmak (para)
+|sparen|biriktirmek
+|ändern|değiştirmek
+|verboten sein|yasak olmak
+|Lust haben|canı istemek
+|Zeit haben|vakti olmak
+|Angst haben|korkmak
+|recht haben|haklı olmak
+|anbieten|teklif etmek, sunmak
+|anklicken|tıklamak
+|ankreuzen|çarpı işaretiyle işaretlemek
+|gewinnen|kazanmak (oyun, yarış)
+|kriegen|elde etmek, almak (günlük dil)
+|sich kümmern|ilgilenmek, bakımını üstlenmek
+|zahlen|ödeme yapmak
+|an sein|açık veya çalışır durumda olmak (cihaz)
+|auf sein|açık olmak (kapı, dükkân)
+|aus sein|kapalı olmak (cihaz), sona ermiş olmak
+|zu sein|kapalı olmak (kapı, dükkân)
+|weg sein|yerinde olmamak, gitmiş olmak
+|ergänzen|eksik kısmı tamamlamak
+|zuordnen|uygun karşılıkla eşleştirmek
+# Adjektive|Sıfatlar
+|gut|iyi
+|schlecht|kötü
+|groß|büyük, uzun boylu
+|klein|küçük
+|lang|uzun
+|kurz|kısa
+|neu|yeni
+|alt|eski, yaşlı
+|jung|genç
+|schön|güzel
+|hässlich|çirkin
+|hübsch|sevimli, hoş
+|billig|ucuz
+|teuer|pahalı
+|günstig|uygun fiyatlı
+|kostenlos|ücretsiz
+|schnell|hızlı
+|langsam|yavaş
+|leicht|kolay, hafif
+|schwer|zor, ağır
+|einfach|basit
+|schwierig|zor
+|richtig|doğru
+|falsch|yanlış
+|wichtig|önemli
+|interessant|ilginç
+|langweilig|sıkıcı
+|lustig|komik
+|nett|hoş, kibar
+|freundlich|güler yüzlü
+|unfreundlich|kaba, soğuk
+|höflich|nazik
+|lieb|sevimli, sevgili
+|glücklich|mutlu
+|traurig|üzgün
+|müde|yorgun
+|krank|hasta
+|gesund|sağlıklı
+|hungrig|aç
+|durstig|susamış
+|satt|tok
+|heiß|çok sıcak
+|warm|ılık, sıcak
+|kalt|soğuk
+|kühl|serin
+|nass|ıslak
+|trocken|kuru
+|sauber|temiz
+|schmutzig|kirli
+|voll|dolu
+|leer|boş
+|offen|açık
+|geschlossen|kapalı
+|geöffnet|açık (dükkân)
+|frei|boş, serbest
+|besetzt|dolu, meşgul
+|fertig|hazır, bitmiş
+|kaputt|bozuk
+|ganz|bütün, tam
+|halb|yarım
+|hell|aydınlık, açık renk
+|dunkel|karanlık, koyu
+|laut|gürültülü
+|leise|sessiz, kısık
+|ruhig|sakin
+|früh|erken
+|spät|geç
+|pünktlich|dakik
+|lecker|lezzetli
+|süß|tatlı
+|sauer|ekşi
+|salzig|tuzlu
+|scharf|acı, keskin
+|frisch|taze
+|dick|şişman, kalın
+|dünn|zayıf, ince
+|schlank|ince (vücut)
+|stark|güçlü
+|schwach|güçsüz
+|hoch|yüksek
+|niedrig|alçak
+|breit|geniş
+|eng|dar
+|weit|uzak
+|nah|yakın
+|gleich|aynı
+|anders|farklı
+|möglich|mümkün
+|fremd|yabancı
+|bekannt|tanınmış
+|beliebt|sevilen
+|berühmt|ünlü
+|verheiratet|evli
+|ledig|bekâr
+|geschieden|boşanmış
+|allein|yalnız
+|arbeitslos|işsiz
+|berufstätig|çalışan
+|geboren|doğmuş
+|ausländisch|yabancı (ülkeden)
+|international|uluslararası
+|deutsch|Alman, Almanca
+|türkisch|Türk, Türkçe
+|englisch|İngiliz, İngilizce
+|rosa|pembe
+|grau|gri
+|bunt|renkli
+|toll|harika
+|super|süper
+|prima|çok iyi
+|wunderbar|fevkalade
+|schrecklich|korkunç
+|schlimm|fena
+|gefährlich|tehlikeli
+|sicher|güvenli, emin
+|klar|açık, net
+|wahr|gerçek
+|fleißig|çalışkan
+|faul|tembel
+|klug|akıllı
+|dumm|aptal
+|reich|zengin
+|arm|fakir
+|modern|modern
+|bequem|rahat
+|gemütlich|sıcak, rahat (ortam)
+|praktisch|pratik
+|normal|normal
+|genau|tam, kesin
+|eilig|acele
+|dringend|acil
+|zufrieden|memnun
+|böse|kızgın, kötü
+|nervös|gergin
+|letzte|son, geçen
+|nächste|sonraki, gelecek
+|erste|ilk
+|eigene|kendi
+|verschieden|çeşitli
+|schwarz|siyah
+|weiß|beyaz
+|rot|kırmızı
+|blau|mavi
+|grün|yeşil
+|gelb|sarı
+|braun|kahverengi
+|orange|turuncu
+|lila|mor
+|automatisch|otomatik
+|besser|daha iyi
+|bitter|acı (tat)
+|gestorben|vefat etmiş
+|gültig|geçerli
+|herzlich|içten, samimi
+|kulturell|kültürel
+|selbstständig|bağımsız, kendi hesabına çalışan
+|tot|ölü
+|europäisch|Avrupa’ya ait
+|finnisch|Finlandiya’ya ait, Fince
+|mexikanisch|Meksika’ya ait
+# Fragewörter und Pronomen|Soru kelimeleri ve zamirler
+|wer|kim
+|was|ne
+|wo|nerede
+|wohin|nereye
+|woher|nereden
+|wann|ne zaman
+|wie|nasıl
+|warum|neden
+|wie viel|ne kadar
+|wie viele|kaç tane
+|welcher|hangi
+|wie lange|ne kadar süre
+|wie oft|ne sıklıkta
+|wie alt|kaç yaşında
+|was für ein|ne tür bir
+|ich|ben
+|du|sen
+|er|o (erkek)
+|sie|o (kadın), onlar
+|es|o (nötr)
+|wir|biz
+|ihr|siz (çoğul), ona (kadın)
+|Sie|siz (resmî)
+|mich|beni
+|dich|seni
+|mir|bana
+|dir|sana
+|uns|bizi, bize
+|euch|sizi, size
+|ihn|onu (erkek)
+|ihm|ona (erkek)
+|Ihnen|size (resmî)
+|mein|benim
+|dein|senin
+|sein (Possessiv)|onun (erkek)
+|ihr (Possessiv)|onun (kadın), onların
+|unser|bizim
+|euer|sizin (çoğul)
+|Ihr|sizin (resmî)
+|der, die, das|belirli artikel
+|ein, eine|bir (belirsiz artikel)
+|kein, keine|hiç, değil
+|dieser|bu
+|jeder|her
+|alle|hepsi, herkes
+|man|insan (genel özne)
+|jemand|biri
+|niemand|hiç kimse
+|etwas|bir şey
+|nichts|hiçbir şey
+|alles|her şey
+|viel|çok
+|viele|birçok
+|wenig|az
+|ein bisschen|biraz
+|ein paar|birkaç
+|beide|her ikisi
+|andere|diğerleri
+|selbst|kendisi
+|sich|kendini, kendine (dönüşlülük zamiri)
+|die meisten|çoğu, büyük çoğunluğu
+# Präpositionen und Konjunktionen|Edatlar ve bağlaçlar
+|in|içinde, -de
+|an|kenarında, -de
+|auf|üstünde
+|unter|altında
+|über|üzerinde, hakkında
+|vor|önünde, önce
+|hinter|arkasında
+|neben|yanında
+|zwischen|arasında
+|bei|yanında, -de (kişi, kurum)
+|mit|ile
+|ohne|-sız, olmadan
+|für|için
+|gegen|karşı
+|von|-den, -in
+|zu|-e doğru (kişi, yer)
+|nach|-e (şehir, ülke); sonra
+|aus|içinden, -den
+|bis|-e kadar
+|seit|-den beri
+|um|saat …'de; etrafında
+|durch|içinden geçerek
+|gegenüber|karşısında
+|ab|itibaren
+|und|ve
+|oder|veya
+|aber|ama
+|denn|çünkü
+|sondern|aksine
+|weil|çünkü (yan cümle)
+|dass|ki
+|wenn|eğer, -ince
+|also|yani, o hâlde
+|dann|sonra, o zaman
+|deshalb|bu yüzden
+|im Sommer|yazın
+|am Montag|pazartesi günü
+|um acht Uhr|saat sekizde
+|zum Arzt|doktora
+|mit dem Bus|otobüsle
+|zu Fuß|yürüyerek
+# Adverbien|Zarflar
+|ja|evet
+|nein|hayır
+|nicht|değil, -me
+|doch|yok, öyle (olumsuza itiraz)
+|auch|de, da
+|nur|sadece
+|sehr|çok
+|zu viel|çok fazla
+|gern|severek
+|lieber|tercihen
+|am liebsten|en çok severek
+|vielleicht|belki
+|natürlich|tabii ki
+|leider|maalesef
+|wirklich|gerçekten
+|genug|yeterince
+|fast|neredeyse
+|ungefähr|yaklaşık
+|schon|çoktan, zaten
+|noch|hâlâ, daha
+|noch nicht|henüz değil
+|noch einmal|bir kez daha
+|wieder|yine
+|immer|her zaman
+|oft|sık sık
+|manchmal|bazen
+|selten|nadiren
+|nie|asla
+|jetzt|şimdi
+|gerade|şu anda
+|sofort|derhal
+|bald|yakında
+|später|daha sonra
+|früher|eskiden
+|heute|bugün
+|morgen|yarın
+|gestern|dün
+|übermorgen|öbür gün
+|vorgestern|evvelsi gün
+|heute Abend|bu akşam
+|jeden Tag|her gün
+|am Wochenende|hafta sonunda
+|hier|burada
+|da|orada, işte
+|dort|orada
+|links|sol, solda
+|rechts|sağ, sağda
+|geradeaus|dümdüz
+|oben|yukarıda
+|unten|aşağıda
+|vorn|önde
+|hinten|arkada
+|draußen|dışarıda
+|drinnen|içeride
+|zu Hause|evde
+|nach Hause|eve
+|unterwegs|yolda
+|weg|gitmiş, uzakta
+|zurück|geri
+|überall|her yerde
+|zuerst|önce
+|danach|ondan sonra
+|zum Schluss|son olarak
+|zusammen|birlikte
+|so|böyle, öyle
+|mehr|daha fazla
+|weniger|daha az
+|besonders|özellikle
+|eigentlich|aslında
+|bestimmt|kesinlikle
+|zum Beispiel|örneğin
+|bitte|lütfen
+|danke|teşekkürler
+|bar|nakit olarak
+|circa|yaklaşık (kısaltması ca.)
+|daneben|hemen yanında
+|am besten|en iyi şekilde
+|lange|uzun süre
+|weiter|daha ileri, devam ederek
+|zurzeit|şu sıralar
+# Zeit und Kalender|Zaman ve takvim
+|der Montag|pazartesi
+|der Dienstag|salı
+|der Mittwoch|çarşamba
+|der Donnerstag|perşembe
+|der Freitag|cuma
+|der Samstag|cumartesi
+|der Sonntag|pazar
+|das Wochenende|hafta sonu
+|der Januar|ocak
+|der Februar|şubat
+|der März|mart
+|der April|nisan
+|der Mai|mayıs
+|der Juni|haziran
+|der Juli|temmuz
+|der August|ağustos
+|der September|eylül
+|der Oktober|ekim
+|der November|kasım
+|der Dezember|aralık
+|der Frühling|ilkbahar
+|der Sommer|yaz
+|der Herbst|sonbahar
+|der Winter|kış
+|der Morgen|sabah
+|der Vormittag|öğleden önce
+|der Mittag|öğle
+|der Nachmittag|öğleden sonra
+|der Abend|akşam
+|die Nacht|gece
+|die Sekunde|saniye
+|die Minute|dakika
+|die Stunde|saat (süre)
+|der Tag|gün
+|die Woche|hafta
+|der Monat|ay (takvim)
+|das Jahr|yıl
+|die Uhr|saat (alet)
+|die Zeit|zaman
+|das Datum|tarih
+|der Termin|randevu
+|der Geburtstag|doğum günü
+|der Feiertag|resmî tatil
+|die Ferien|okul tatili
+|der Urlaub|izin, tatil
+|Viertel nach|çeyrek geçiyor
+|Viertel vor|çeyrek var
+|kurz vor|az kala
+|kurz nach|biraz geçe
+|der Anfang|başlangıç
+|das Ende|son
+|die Mitte|orta
+|morgens|sabahları
+|mittags|öğlenleri
+|abends|akşamları
+|nachts|geceleri
+|montags|pazartesileri
+|letzte Woche|geçen hafta
+|nächste Woche|gelecek hafta
+|dieses Jahr|bu yıl
+|Ostern|Paskalya
+|Weihnachten|Noel
+|Silvester|yılbaşı gecesi
+|Neujahr|yılbaşı
+|der Wochentag|haftanın günü
+|der Sonnabend|cumartesi (bölgesel)
+|das Frühjahr|ilkbahar (Frühling ile eş anlamlı)
+|der Moment|an
+# Zahlen und Mengen|Sayılar ve miktarlar
+|elf|on bir
+|zwölf|on iki
+|dreizehn|on üç
+|vierzehn|on dört
+|fünfzehn|on beş
+|sechzehn|on altı
+|siebzehn|on yedi
+|achtzehn|on sekiz
+|neunzehn|on dokuz
+|zwanzig|yirmi
+|einundzwanzig|yirmi bir
+|zweiundzwanzig|yirmi iki
+|dreißig|otuz
+|vierzig|kırk
+|fünfzig|elli
+|sechzig|altmış
+|siebzig|yetmiş
+|achtzig|seksen
+|neunzig|doksan
+|hundert|yüz
+|zweihundert|iki yüz
+|tausend|bin
+|eine Million|bir milyon
+|der erste|birinci
+|der zweite|ikinci
+|der dritte|üçüncü
+|der vierte|dördüncü
+|der fünfte|beşinci
+|der zehnte|onuncu
+|der zwanzigste|yirminci
+|einmal|bir kez
+|zweimal|iki kez
+|dreimal|üç kez
+|die Hälfte|yarı
+|das Viertel|çeyrek
+|das Prozent|yüzde
+|die Nummer|numara
+|die Zahl|sayı
+|das Kilo|kilo
+|das Gramm|gram
+|das Pfund|yarım kilo
+|der Liter|litre
+|der Meter|metre
+|der Kilometer|kilometre
+|der Zentimeter|santimetre
+|das Stück|tane, parça
+|die Flasche|şişe
+|die Dose|teneke kutu
+|die Packung|paket (ürün)
+|ein Paar|bir çift
+|der Euro|avro
+|der Cent|sent
+|der Preis|fiyat
+|hunderteins|yüz bir
+|eine Milliarde|bir milyar
+|das Kilogramm|kilogram
+# Personen und Formular|Kişiler ve form bilgileri
+|die Eltern|anne baba
+|die Mutter|anne
+|der Vater|baba
+|der Sohn|oğul
+|die Tochter|kız evlat
+|der Bruder|erkek kardeş
+|die Schwester|kız kardeş
+|die Geschwister|kardeşler
+|die Großeltern|büyükanne ve büyükbaba
+|die Großmutter|büyükanne
+|der Großvater|dede
+|die Oma|nine
+|der Opa|dede (günlük dil)
+|der Onkel|amca, dayı
+|die Tante|hala, teyze
+|der Cousin|kuzen (erkek)
+|die Cousine|kuzen (kız)
+|der Ehemann|koca
+|die Ehefrau|karı, eş
+|der Partner|partner (erkek)
+|die Partnerin|partner (kadın)
+|der Freund|arkadaş, erkek arkadaş
+|die Freundin|arkadaş, kız arkadaş
+|der Kollege|iş arkadaşı (erkek)
+|die Kollegin|iş arkadaşı (kadın)
+|der Chef|patron (erkek)
+|die Chefin|patron (kadın)
+|der Nachbar|komşu (erkek)
+|die Nachbarin|komşu (kadın)
+|der Gast|misafir
+|der Herr|bey
+|die Dame|hanımefendi
+|die Leute|insanlar
+|der Mensch|insan
+|der Mann|adam, koca
+|die Frau|kadın, eş
+|das Kind|çocuk
+|das Baby|bebek
+|der Junge|erkek çocuk
+|das Mädchen|kız çocuk
+|der Erwachsene|yetişkin
+|der Jugendliche|genç
+|die Familie|aile
+|der Name|isim
+|der Vorname|ad
+|der Familienname|soyad
+|das Alter|yaş
+|die Adresse|adres
+|die Straße|cadde, sokak
+|die Hausnummer|kapı numarası
+|die Postleitzahl|posta kodu
+|der Wohnort|ikamet yeri
+|der Geburtsort|doğum yeri
+|das Geburtsdatum|doğum tarihi
+|das Geburtsjahr|doğum yılı
+|das Land|ülke
+|die Staatsangehörigkeit|uyruk
+|die Sprache|dil (lisan)
+|die Muttersprache|ana dil
+|der Familienstand|medeni durum
+|das Geschlecht|cinsiyet
+|männlich|erkek (cinsiyet)
+|weiblich|kadın (cinsiyet)
+|die Telefonnummer|telefon numarası
+|die E-Mail-Adresse|e-posta adresi
+|die Unterschrift|imza
+|das Formular|form
+|der Ausweis|kimlik
+|der Pass|pasaport
+|der Führerschein|ehliyet
+|das Hobby|hobi
+|der Beruf|meslek
+|Deutsch|Almanca
+|Türkisch|Türkçe
+|Englisch|İngilizce
+|Französisch|Fransızca
+|Arabisch|Arapça
+|Russisch|Rusça
+|Spanisch|İspanyolca
+|der Deutsche|Alman (erkek)
+|die Deutsche|Alman (kadın)
+|der Türke|Türk (erkek)
+|die Türkin|Türk (kadın)
+|der Ausländer|yabancı (erkek)
+|die Ausländerin|yabancı (kadın)
+|der Absender|gönderen
+|der Empfänger|alıcı
+|der Beamte|devlet memuru (erkek)
+|der Bekannte|tanıdık (erkek)
+|die Bekannte|tanıdık (kadın)
+|der Verwandte|akraba (erkek)
+|die Heimat|memleket, yurt
+|die Vorwahl|telefon alan kodu
+|der Europäer|Avrupalı (erkek)
+|die Europäerin|Avrupalı (kadın)
+|der Finne|Finlandiyalı (erkek)
+|die Finnin|Finlandiyalı (kadın)
+|der Mexikaner|Meksikalı (erkek)
+|die Mexikanerin|Meksikalı (kadın)
+# Wohnen|Ev ve yaşam
+|die Wohnung|daire
+|das Haus|ev
+|das Zimmer|oda
+|das Wohnzimmer|oturma odası
+|das Schlafzimmer|yatak odası
+|das Kinderzimmer|çocuk odası
+|die Küche|mutfak
+|das Bad|banyo
+|die Toilette|tuvalet
+|der Flur|koridor
+|der Balkon|balkon
+|der Garten|bahçe
+|der Keller|bodrum
+|die Garage|garaj
+|die Treppe|merdiven (bina)
+|der Stock|kat
+|das Erdgeschoss|zemin kat
+|der Aufzug|asansör
+|die Tür|kapı
+|das Fenster|pencere
+|die Wand|duvar
+|der Boden|zemin
+|die Möbel|mobilya
+|der Tisch|masa
+|der Stuhl|sandalye
+|der Sessel|koltuk
+|das Sofa|kanepe
+|das Bett|yatak
+|der Schrank|dolap
+|das Regal|raf
+|die Lampe|lamba
+|der Teppich|halı
+|der Vorhang|perde
+|der Kühlschrank|buzdolabı
+|der Herd|ocak
+|der Ofen|fırın
+|die Waschmaschine|çamaşır makinesi
+|die Spülmaschine|bulaşık makinesi
+|die Heizung|kalorifer
+|das Licht|ışık
+|der Strom|elektrik
+|die Miete|kira
+|der Vermieter|ev sahibi
+|der Mieter|kiracı
+|die Nebenkosten|yan giderler
+|der Schlüssel|anahtar
+|der Müll|çöp
+|die Dusche|duş
+|das Handtuch|havlu
+|die Seife|sabun
+|der Spiegel|ayna
+|das Kissen|yastık
+|die Decke|battaniye; tavan
+|der Fernseher|televizyon
+|der Hausmeister|apartman görevlisi
+|der Platz|yer, meydan
+|der Raum|mekân, oda
+|das Dach|çatı
+|der Hof|avlu
+|die Klingel|zil
+|der Briefkasten|posta kutusu
+|möbliert|mobilyalı
+|der Quadratmeter|metrekare
+|die Anzeige|ilan
+|das Apartment|küçük daire
+|der Anrufbeantworter|telesekreter
+|die Maschine|makine
+|die Ordnung|düzen
+|das Leben|yaşam
+# Essen und Einkaufen|Yemek ve alışveriş
+|das Essen|yemek
+|das Getränk|içecek
+|das Frühstück|kahvaltı
+|das Mittagessen|öğle yemeği
+|das Abendessen|akşam yemeği
+|der Hunger|açlık
+|der Durst|susuzluk
+|das Brot|ekmek
+|das Brötchen|küçük ekmek
+|die Butter|tereyağı
+|der Käse|peynir
+|die Wurst|sosis, salam
+|der Schinken|jambon
+|das Ei|yumurta
+|die Milch|süt
+|der Joghurt|yoğurt
+|die Sahne|krema
+|das Fleisch|et
+|das Hähnchen|tavuk eti
+|der Fisch|balık
+|das Gemüse|sebze
+|das Obst|meyve
+|der Apfel|elma
+|die Banane|muz
+|die Orange|portakal
+|die Tomate|domates
+|die Kartoffel|patates
+|der Salat|salata
+|die Zwiebel|soğan
+|der Reis|pirinç, pilav
+|die Nudeln|makarna
+|die Suppe|çorba
+|die Pommes|patates kızartması
+|der Kuchen|pasta, kek
+|die Schokolade|çikolata
+|das Eis|dondurma; buz
+|der Zucker|şeker
+|das Salz|tuz
+|der Pfeffer|karabiber
+|das Öl|sıvı yağ
+|der Essig|sirke
+|das Mehl|un
+|die Marmelade|reçel
+|der Honig|bal
+|das Wasser|su
+|das Mineralwasser|maden suyu
+|der Saft|meyve suyu
+|der Kaffee|kahve
+|der Tee|çay
+|das Bier|bira
+|der Wein|şarap
+|die Cola|kola
+|das Restaurant|restoran
+|das Café|kafe
+|die Kantine|yemekhane
+|die Speisekarte|menü
+|die Rechnung|hesap, fatura
+|das Trinkgeld|bahşiş
+|der Kellner|garson (erkek)
+|die Kellnerin|garson (kadın)
+|das Gericht|yemek (tabak)
+|die Vorspeise|başlangıç yemeği
+|die Hauptspeise|ana yemek
+|der Nachtisch|tatlı (yemek sonu)
+|die Portion|porsiyon
+|der Teller|tabak
+|die Gabel|çatal
+|der Löffel|kaşık
+|das Messer|bıçak
+|das Glas|bardak
+|die Tasse|fincan
+|der Supermarkt|süpermarket
+|der Markt|pazar
+|die Bäckerei|fırın (dükkân)
+|die Metzgerei|kasap
+|das Geschäft|mağaza
+|der Laden|dükkân
+|das Kaufhaus|büyük mağaza
+|die Kasse|kasa
+|der Kunde|müşteri (erkek)
+|die Kundin|müşteri (kadın)
+|der Verkäufer|satıcı (erkek)
+|die Verkäuferin|satıcı (kadın)
+|das Angebot|teklif, indirim
+|das Sonderangebot|özel indirim
+|die Tüte|poşet
+|die Quittung|makbuz
+|das Geld|para
+|das Bargeld|nakit
+|die Kreditkarte|kredi kartı
+|die EC-Karte|banka kartı
+|die Größe|beden, boy
+|die Farbe|renk
+|die Kleidung|giyim
+|die Jacke|ceket, mont
+|der Pullover|kazak
+|der Rock|etek
+|die Hose|pantolon
+|das Hemd|gömlek
+|das Kleid|elbise
+|das T-Shirt|tişört
+|der Schuh|ayakkabı
+|der Mantel|palto
+|die Mütze|bere
+|die Tasche|çanta
+|die Brille|gözlük
+|der Appetit|iştah
+|der Automat|otomat
+|der Kiosk|büfe, gazete bayisi
+|die Lebensmittel|gıda ürünleri
+|das Lokal|lokanta, yeme içme yeri
+# Arbeit, Schule, Amt|İş, okul, resmî işler
+|die Arbeit|iş, çalışma
+|der Job|iş (günlük dil)
+|der Arbeitsplatz|iş yeri
+|die Firma|firma
+|das Büro|ofis
+|die Stelle|pozisyon, iş
+|die Ausbildung|meslek eğitimi
+|das Praktikum|staj
+|die Bewerbung|iş başvurusu
+|die Pause|mola
+|der Feierabend|paydos
+|die Schule|okul
+|die Universität|üniversite
+|der Kindergarten|anaokulu
+|der Kurs|kurs
+|der Deutschkurs|Almanca kursu
+|der Unterricht|ders
+|die Klasse|sınıf
+|der Lehrer|öğretmen (erkek)
+|die Lehrerin|öğretmen (kadın)
+|der Schüler|öğrenci (erkek, okul)
+|die Schülerin|öğrenci (kız, okul)
+|der Student|üniversite öğrencisi (erkek)
+|die Studentin|üniversite öğrencisi (kadın)
+|die Prüfung|sınav
+|der Test|test
+|die Aufgabe|görev, soru
+|die Hausaufgabe|ödev
+|die Übung|alıştırma
+|die Lösung|çözüm
+|der Fehler|hata
+|das Beispiel|örnek
+|die Antwort|cevap
+|die Frage|soru
+|der Text|metin
+|der Satz|cümle
+|das Wort|kelime
+|der Buchstabe|harf
+|die Seite|sayfa
+|das Buch|kitap
+|das Heft|defter
+|der Stift|kalem
+|der Bleistift|kurşun kalem
+|der Kugelschreiber|tükenmez kalem
+|das Papier|kâğıt
+|die Tafel|yazı tahtası
+|das Wörterbuch|sözlük
+|die Sprachschule|dil okulu
+|die Note|not (puan)
+|das Zeugnis|karne, belge
+|die Anmeldung|kayıt
+|das Amt|resmî daire
+|die Behörde|resmî kurum
+|der Antrag|dilekçe, başvuru
+|das Dokument|belge
+|die Information|bilgi
+|die Auskunft|danışma
+|das Problem|sorun
+|die Hilfe|yardım
+|die Polizei|polis teşkilatı
+|die Feuerwehr|itfaiye
+|die Post|postane
+|die Bank|banka, oturma bankı
+|das Konto|hesap (banka)
+|der Brief|mektup
+|die Briefmarke|posta pulu
+|das Paket|koli
+|die E-Mail|e-posta
+|das Internet|internet
+|der Computer|bilgisayar
+|das Handy|cep telefonu
+|das Telefon|telefon
+|der Drucker|yazıcı
+|die Nachricht|mesaj, haber
+|der Anruf|telefon araması
+|der Arzt|doktor (erkek)
+|die Ärztin|doktor (kadın)
+|der Ingenieur|mühendis (erkek)
+|die Ingenieurin|mühendis (kadın)
+|der Krankenpfleger|hemşire (erkek)
+|die Krankenschwester|hemşire (kadın)
+|der Fahrer|şoför
+|der Taxifahrer|taksi şoförü
+|der Mechaniker|tamirci (erkek)
+|der Koch|aşçı (erkek)
+|die Köchin|aşçı (kadın)
+|der Friseur|berber, kuaför (erkek)
+|die Friseurin|kuaför (kadın)
+|der Bäcker|fırıncı
+|der Elektriker|elektrikçi
+|die Sekretärin|sekreter (kadın)
+|der Polizist|polis (erkek)
+|die Polizistin|polis (kadın)
+|der Hausmann|ev erkeği
+|die Hausfrau|ev hanımı
+|der Rentner|emekli (erkek)
+|die Rentnerin|emekli (kadın)
+|die Anrede|hitap biçimi
+|die Aussage|ifade, beyan
+|der Bogen|form, kâğıt yaprağı
+|der Antwortbogen|cevap kâğıdı
+|das Ergebnis|sonuç
+|das Fax|faks
+|das Gespräch|konuşma, görüşme
+|die Papiere|resmî belgeler
+|der Plan|plan, kroki
+|der Prospekt|tanıtım broşürü
+|die Reparatur|onarım
+|der Schalter|gişe, açma kapama düğmesi
+|der Schluss|son, bitiş
+|das Studium|üniversite öğrenimi
+|der Teil|bölüm, parça
+|das Thema|konu
+# Freizeit und Reisen|Boş zaman ve seyahat
+|die Freizeit|boş zaman
+|der Sport|spor
+|der Fußball|futbol
+|das Schwimmbad|yüzme havuzu
+|das Kino|sinema
+|das Theater|tiyatro
+|das Museum|müze
+|das Konzert|konser
+|die Musik|müzik
+|das Lied|şarkı
+|der Film|film
+|die Zeitung|gazete
+|das Spiel|oyun
+|der Verein|dernek, kulüp
+|die Party|parti
+|das Fest|şenlik, kutlama
+|die Einladung|davetiye
+|das Geschenk|hediye
+|der Ausflug|gezi
+|der Spaziergang|yürüyüş
+|der Park|park
+|der See|göl
+|das Meer|deniz
+|der Strand|plaj
+|der Berg|dağ
+|der Wald|orman
+|der Fluss|nehir
+|die Natur|doğa
+|das Wetter|hava durumu
+|die Sonne|güneş
+|der Regen|yağmur
+|der Schnee|kar
+|der Wind|rüzgâr
+|die Wolke|bulut
+|der Grad|derece (sıcaklık)
+|die Temperatur|sıcaklık
+|die Reise|seyahat
+|die Fahrt|yolculuk
+|der Flug|uçuş
+|das Ticket|bilet (uçak, etkinlik)
+|die Fahrkarte|bilet (tren, otobüs)
+|der Fahrplan|sefer tarifesi
+|der Bahnhof|tren istasyonu
+|der Hauptbahnhof|ana gar
+|der Flughafen|havalimanı
+|die Haltestelle|durak
+|das Gleis|hat, peron
+|der Bahnsteig|peron
+|der Zug|tren
+|der Bus|otobüs
+|die U-Bahn|metro
+|die S-Bahn|banliyö treni
+|die Straßenbahn|tramvay
+|das Taxi|taksi
+|das Auto|araba
+|das Fahrrad|bisiklet
+|das Motorrad|motosiklet
+|das Flugzeug|uçak
+|das Schiff|gemi
+|die Abfahrt|hareket (kalkış)
+|die Ankunft|varış
+|die Verspätung|gecikme
+|der Eingang|giriş
+|der Ausgang|çıkış
+|das Hotel|otel
+|das Einzelzimmer|tek kişilik oda
+|das Doppelzimmer|çift kişilik oda
+|die Rezeption|resepsiyon
+|die Reservierung|rezervasyon
+|der Koffer|bavul
+|das Gepäck|bagaj
+|der Stadtplan|şehir planı
+|die Stadt|şehir
+|das Dorf|köy
+|das Zentrum|merkez
+|die Kreuzung|kavşak
+|die Ampel|trafik ışığı
+|die Ecke|köşe
+|die Brücke|köprü
+|der Weg|yol
+|die Richtung|yön
+|der Norden|kuzey
+|der Süden|güney
+|der Osten|doğu
+|der Westen|batı
+|das Ausland|yurt dışı
+|der Tourist|turist
+|die Sehenswürdigkeit|görülecek yer
+|die Kirche|kilise
+|das Rathaus|belediye binası
+|die Apotheke|eczane
+|das Krankenhaus|hastane
+|die Bibliothek|kütüphane
+|die Tankstelle|benzin istasyonu
+|der Parkplatz|otopark
+|die Ansage|sesli duyuru, kayıtlı mesaj
+|der Anschluss|aktarma bağlantısı, hat bağlantısı
+|die Bahn|demiryolu, tren
+|der Blick|bakış, manzara
+|die Disco|diskotek
+|die Durchsage|hoparlörden yapılan anons
+|der Eintritt|giriş, giriş ücreti
+|die Führung|rehberli tur
+|die Halbpension|yarım pansiyon
+|die Halle|büyük salon
+|die Karte|kart, harita, menü
+|das Reisebüro|seyahat acentesi
+|der Reiseführer|gezi rehberi (kişi veya kitap)
+|die Welt|dünya
+|Europa|Avrupa
+# Körper und Arzt|Vücut ve doktor
+|die Gesundheit|sağlık
+|die Krankheit|hastalık
+|die Schmerzen|ağrılar
+|die Kopfschmerzen|baş ağrısı
+|die Bauchschmerzen|karın ağrısı
+|die Halsschmerzen|boğaz ağrısı
+|die Zahnschmerzen|diş ağrısı
+|das Fieber|ateş (hastalık)
+|der Husten|öksürük
+|der Schnupfen|nezle
+|die Erkältung|soğuk algınlığı
+|die Grippe|grip
+|das Medikament|ilaç
+|die Tablette|hap
+|das Rezept|reçete; yemek tarifi
+|die Praxis|muayenehane
+|der Zahnarzt|diş hekimi
+|die Krankenversicherung|sağlık sigortası
+|die Versichertenkarte|sigorta kartı
+|der Notfall|acil durum
+|der Unfall|kaza
+|der Kopf|baş
+|das Gesicht|yüz
+|die Haare|saç
+|das Auge|göz
+|das Ohr|kulak
+|die Nase|burun
+|der Mund|ağız
+|der Zahn|diş
+|der Hals|boyun, boğaz
+|der Rücken|sırt
+|der Bauch|karın
+|der Arm|kol
+|die Hand|el
+|der Finger|parmak
+|das Bein|bacak
+|der Fuß|ayak
+|das Knie|diz
+|das Herz|kalp
+|der Körper|vücut
+|der Doktor|doktor, hekim
+|das Gewicht|ağırlık
+# Redewendungen|Günlük kalıplar
+|Hallo!|Merhaba!
+|Guten Morgen!|Günaydın!
+|Guten Tag!|İyi günler!
+|Guten Abend!|İyi akşamlar!
+|Gute Nacht!|İyi geceler!
+|Tschüss!|Hoşça kal!
+|Auf Wiedersehen!|Görüşmek üzere!
+|Bis bald!|Yakında görüşürüz!
+|Bis morgen!|Yarın görüşürüz!
+|Bis später!|Sonra görüşürüz!
+|Herzlich willkommen!|Hoş geldiniz!
+|Wie geht's?|Nasılsın?
+|Wie geht es Ihnen?|Nasılsınız?
+|Danke, gut.|Teşekkürler, iyiyim.
+|Es geht.|İdare eder.
+|Nicht so gut.|Pek iyi değil.
+|Und dir?|Ya sen?
+|Vielen Dank!|Çok teşekkürler!
+|Bitte schön!|Buyurun!
+|Gern geschehen!|Rica ederim!
+|Entschuldigung!|Affedersiniz!
+|Tut mir leid.|Üzgünüm.
+|Kein Problem.|Sorun değil.
+|Macht nichts.|Önemli değil.
+|Wie bitte?|Efendim?
+|Ich verstehe nicht.|Anlamıyorum.
+|Noch einmal, bitte.|Bir daha lütfen.
+|Langsam, bitte.|Yavaş lütfen.
+|Ich weiß nicht.|Bilmiyorum.
+|Keine Ahnung.|Hiçbir fikrim yok.
+|Einen Moment, bitte.|Bir dakika lütfen.
+|Genau!|Aynen!
+|Stimmt!|Doğru!
+|Na klar!|Tabii ki!
+|Ach so!|Ha, anladım!
+|Wirklich?|Gerçekten mi?
+|Schade!|Yazık!
+|Viel Spaß!|İyi eğlenceler!
+|Viel Glück!|Bol şans!
+|Viel Erfolg!|Başarılar!
+|Gute Besserung!|Geçmiş olsun!
+|Gute Reise!|İyi yolculuklar!
+|Guten Appetit!|Afiyet olsun!
+|Prost!|Şerefe!
+|Gesundheit!|Çok yaşa!
+|Herzlichen Glückwunsch!|Tebrikler!
+|Alles Gute!|Her şey gönlünce olsun!
+|Alles Gute zum Geburtstag!|Doğum günün kutlu olsun!
+|Frohe Weihnachten!|Mutlu Noeller!
+|Frohes neues Jahr!|Mutlu yıllar!
+|Schönes Wochenende!|İyi hafta sonları!
+|Schönen Tag noch!|İyi günler dilerim!
+|Freut mich!|Memnun oldum!
+|Ich heiße …|Benim adım …
+|Ich komme aus …|…'den geliyorum
+|Ich wohne in …|…'de oturuyorum
+|Ich bin … Jahre alt.|… yaşındayım.
+|Ich spreche …|… konuşuyorum
+|Ich hätte gern …|… alabilir miyim
+|Ich möchte …|… istiyorum
+|Was kostet das?|Bu ne kadar?
+|Wie spät ist es?|Saat kaç?
+|Wo ist …?|… nerede?
+|Gibt es …?|… var mı?
+|Es gibt …|… var
+|Ich habe Hunger.|Acıktım.
+|Ich habe Durst.|Susadım.
+|Ich habe keine Zeit.|Vaktim yok.
+|Ich bin müde.|Yorgunum.
+|Ich bin krank.|Hastayım.
+|Mir geht es gut.|İyiyim.
+|Das stimmt.|Bu doğru.
+|Können Sie mir helfen?|Bana yardım edebilir misiniz?
+|Können Sie das wiederholen?|Tekrar edebilir misiniz?
+|Sprechen Sie Deutsch?|Almanca konuşuyor musunuz?
+|Hilfe!|İmdat!
+|Achtung!|Dikkat!
+|Vorsicht!|Dikkatli ol!
+|Moment mal!|Bir saniye!
+|Los geht's!|Hadi başlayalım!
+|Zahlen, bitte!|Hesap lütfen!
+|Stimmt so.|Üstü kalsın.
+|Zusammen oder getrennt?|Birlikte mi ayrı mı?
+|Das macht … Euro.|… avro tutuyor.
+|Ich bin dran.|Sıra bende.
+|Das gefällt mir.|Bunu beğendim.
+|Das schmeckt gut.|Tadı güzel.
+|Ich hätte eine Frage.|Bir sorum var.
+|Mit freundlichen Grüßen|Saygılarımla
+|Liebe Grüße|Sevgiler
+|Sehr geehrte Damen und Herren|Sayın Bayanlar ve Baylar
+|Lieber Tom, …|Sevgili Tom, …
+|Liebe Anna, …|Sevgili Anna, …
+|die Bitte|rica, istek
+|der Dank|teşekkür, şükran
+|die Entschuldigung|özür
+|das Glück|şans, mutluluk
+|der Glückwunsch|tebrik
+|der Gruß|selam
+|Lieblings-|en sevilen (birleşik kelimelerde)
+|die Vorsicht|dikkat, tedbir
+|Auf Wiederhören!|Hoşça kalın! (telefonda)

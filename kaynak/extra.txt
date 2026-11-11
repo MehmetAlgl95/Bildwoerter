@@ -1,0 +1,88 @@
+# Tiere|Hayvanlar
+🐻‍❄️|der Eisbär|kutup ayısı
+🦬|der Bison|bizon
+🦣|das Mammut|mamut
+🦫|der Biber|kunduz
+🦡|der Dachs|porsuk
+🪲|der Käfer|böcek
+🪳|die Kakerlake|hamam böceği
+🪱|der Wurm|solucan
+🦗|die Grille|cırcır böceği
+🪰|die Fliege|sinek
+🦭|die Robbe|fok
+🐈‍⬛|die schwarze Katze|kara kedi
+🦮|der Blindenhund|rehber köpek
+🐏|der Widder|koç
+🦧|der Orang-Utan|orangutan
+# Essen und Trinken|Yiyecek ve içecek
+🥓|der Speck|domuz pastırması
+🍤|die frittierte Garnele|karides tava
+🍛|das Curry|köri
+🥧|der Obstkuchen|meyveli turta
+🍨|der Eisbecher|kupa dondurma
+🫓|das Fladenbrot|pide
+🥠|der Glückskeks|fal kurabiyesi
+🧋|der Bubble Tea|bubble tea
+🍹|der Fruchtcocktail|meyve kokteyli
+🍻|anstoßen|kadeh tokuşturmak
+🫕|das Fondue|fondü
+🥡|das Essen zum Mitnehmen|paket yemek
+🍢|der Spieß|şiş
+# Haus|Ev
+🪠|der Pümpel|lavabo pompası
+🪆|die Matroschka|matruşka
+⏲️|der Küchenwecker|mutfak saati
+🏮|die Laterne|fener
+🪔|die Öllampe|kandil
+# Natur und Wetter|Doğa ve hava
+🌦️|der Regenschauer|sağanak
+☔|es regnet|yağmur yağıyor
+🌞|die Sonne scheint|güneş parlıyor
+🍀|das Glückskleeblatt|dört yapraklı yonca
+🥀|die verwelkte Blume|solmuş çiçek
+🌿|die Kräuter|otlar
+# Sport und Spiel|Spor ve oyun
+🏅|die Medaille|madalya
+🎰|der Spielautomat|slot makinesi
+🤽|der Wasserball|su topu
+🏏|das Kricket|kriket
+🥌|das Curling|curling
+🥏|die Frisbee|frizbi
+# Musik und Kunst|Müzik ve sanat
+🎼|die Noten|notalar
+📯|das Horn|boru
+# Technik|Teknoloji
+📹|die Videokamera|video kamera
+📼|die Videokassette|video kaset
+📀|die DVD|DVD
+📶|das Signal|sinyal
+# Schule und Büro|Okul ve ofis
+📈|steigen|artmak
+📉|sinken|azalmak
+📜|die Schriftrolle|parşömen
+# Körper und Gesundheit|Vücut ve sağlık
+🦻|das Hörgerät|işitme cihazı
+🧑‍🦯|blind|kör
+🧏|taub|sağır
+🧑‍🦲|die Glatze|kel kafa
+👩‍🦰|rote Haare|kızıl saç
+👱|blonde Haare|sarı saç
+👩‍🦱|lockige Haare|kıvırcık saç
+👩‍🦳|graue Haare|kır saç
+# Verkehr|Ulaşım
+🚛|der Sattelzug|tır
+🛻|der Pick-up|kamyonet
+🚎|der Oberleitungsbus|troleybüs
+🛩️|das Kleinflugzeug|küçük uçak
+🛥️|die Yacht|yat
+# Stadt|Şehir
+🕋|die Kaaba|Kâbe
+🛕|der Tempel|tapınak
+🚸|Achtung, Kinder!|Dikkat, çocuklar!
+♿|barrierefrei|engelli erişimine uygun
+🚳|Fahrräder verboten|bisiklet yasak
+📵|Handys verboten|cep telefonu yasak
+🆘|Hilfe!|İmdat!
+🛃|der Zoll|gümrük
+🚹|Herren|baylar
+🚺|Damen|bayanlar

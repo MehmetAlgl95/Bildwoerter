@@ -1,0 +1,950 @@
+# Tiere|Hayvanlar
+🐶|der Hund|köpek
+🐱|die Katze|kedi
+🐭|die Maus|fare
+🐹|der Hamster|hamster
+🐰|das Kaninchen|tavşan
+🦊|der Fuchs|tilki
+🐻|der Bär|ayı
+🐼|der Panda|panda
+🐨|der Koala|koala
+🐯|der Tiger|kaplan
+🦁|der Löwe|aslan
+🐮|die Kuh|inek
+🐷|das Schwein|domuz
+🐸|der Frosch|kurbağa
+🐵|der Affe|maymun
+🐔|das Huhn|tavuk
+🐧|der Pinguin|penguen
+🐦|der Vogel|kuş
+🐤|das Küken|civciv
+🦆|die Ente|ördek
+🦅|der Adler|kartal
+🦉|die Eule|baykuş
+🦇|die Fledermaus|yarasa
+🐺|der Wolf|kurt
+🐗|das Wildschwein|yaban domuzu
+🐴|das Pferd|at
+🦄|das Einhorn|tek boynuzlu at
+🐝|die Biene|arı
+🐛|die Raupe|tırtıl
+🦋|der Schmetterling|kelebek
+🐌|die Schnecke|salyangoz
+🐞|der Marienkäfer|uğur böceği
+🐜|die Ameise|karınca
+🦟|die Mücke|sivrisinek
+🕷️|die Spinne|örümcek
+🦂|der Skorpion|akrep
+🐢|die Schildkröte|kaplumbağa
+🐍|die Schlange|yılan
+🦎|die Eidechse|kertenkele
+🐙|der Krake|ahtapot
+🦑|der Kalmar|kalamar
+🦀|die Krabbe|yengeç
+🦞|der Hummer|ıstakoz
+🦐|die Garnele|karides
+🐟|der Fisch|balık
+🐡|der Kugelfisch|balon balığı
+🐬|der Delfin|yunus
+🐳|der Wal|balina
+🦈|der Hai|köpek balığı
+🐊|das Krokodil|timsah
+🐆|der Leopard|leopar
+🦓|das Zebra|zebra
+🦍|der Gorilla|goril
+🐘|der Elefant|fil
+🦛|das Nilpferd|su aygırı
+🦏|das Nashorn|gergedan
+🐪|das Kamel|deve
+🦒|die Giraffe|zürafa
+🦘|das Känguru|kanguru
+🐂|der Stier|boğa
+🐃|der Büffel|manda
+🐑|das Schaf|koyun
+🐐|die Ziege|keçi
+🦙|das Lama|lama
+🦌|der Hirsch|geyik
+🐓|der Hahn|horoz
+🦃|der Truthahn|hindi
+🦚|der Pfau|tavus kuşu
+🦜|der Papagei|papağan
+🦢|der Schwan|kuğu
+🦩|der Flamingo|flamingo
+🕊️|die Taube|güvercin
+🐿️|das Eichhörnchen|sincap
+🦔|der Igel|kirpi
+🦝|der Waschbär|rakun
+🦦|der Otter|su samuru
+🦥|das Faultier|tembel hayvan
+🦨|das Stinktier|kokarca
+🐀|die Ratte|sıçan
+🐩|der Pudel|kaniş
+🐉|der Drache|ejderha
+🦖|der Dinosaurier|dinozor
+🐾|die Pfoten|pati izleri
+🕸️|das Spinnennetz|örümcek ağı
+🥚|das Ei|yumurta
+🪶|die Feder|tüy
+# Obst und Gemüse|Meyve ve sebze
+🍎|der Apfel|elma
+🍐|die Birne|armut
+🍊|die Orange|portakal
+🍋|die Zitrone|limon
+🍌|die Banane|muz
+🍉|die Wassermelone|karpuz
+🍇|die Trauben|üzüm
+🍓|die Erdbeere|çilek
+🫐|die Blaubeeren|yaban mersini
+🍈|die Melone|kavun
+🍒|die Kirschen|kiraz
+🍑|der Pfirsich|şeftali
+🥭|die Mango|mango
+🍍|die Ananas|ananas
+🥥|die Kokosnuss|hindistan cevizi
+🥝|die Kiwi|kivi
+🍅|die Tomate|domates
+🍆|die Aubergine|patlıcan
+🥑|die Avocado|avokado
+🥦|der Brokkoli|brokoli
+🥬|der Kopfsalat|marul
+🥒|die Gurke|salatalık
+🌶️|die Chilischote|acı biber
+🫑|die Paprika|dolmalık biber
+🌽|der Mais|mısır
+🥕|die Karotte|havuç
+🧄|der Knoblauch|sarımsak
+🧅|die Zwiebel|soğan
+🥔|die Kartoffel|patates
+🍠|die Süßkartoffel|tatlı patates
+🍄|der Pilz|mantar
+🥜|die Erdnüsse|yer fıstığı
+🌰|die Kastanie|kestane
+🫒|die Olive|zeytin
+# Essen und Trinken|Yiyecek ve içecek
+🍞|das Brot|ekmek
+🥐|das Croissant|kruvasan
+🥖|das Baguette|baget
+🥨|die Brezel|Alman simidi
+🥞|die Pfannkuchen|krep
+🧇|die Waffel|waffle
+🧀|der Käse|peynir
+🍖|das Fleisch|et
+🍗|das Hähnchen|tavuk eti
+🥩|das Steak|biftek
+🍔|der Hamburger|hamburger
+🍟|die Pommes|patates kızartması
+🍕|die Pizza|pizza
+🌭|der Hotdog|sosisli sandviç
+🥪|das Sandwich|sandviç
+🌮|der Taco|tako
+🌯|der Wrap|dürüm
+🥙|der Döner|döner
+🧆|die Falafel|falafel
+🍳|das Spiegelei|sahanda yumurta
+🥘|der Eintopf|güveç
+🍲|die Suppe|çorba
+🥣|das Müsli|müsli
+🥗|der Salat|salata
+🍿|das Popcorn|patlamış mısır
+🧈|die Butter|tereyağı
+🧂|das Salz|tuz
+🥫|die Konserve|konserve
+🍝|die Spaghetti|spagetti
+🍚|der Reis|pilav
+🍜|die Nudelsuppe|erişte çorbası
+🍣|das Sushi|suşi
+🥟|die Teigtaschen|mantı
+🍦|das Eis|dondurma
+🍩|der Donut|donut
+🍪|der Keks|kurabiye
+🎂|die Geburtstagstorte|doğum günü pastası
+🍰|der Kuchen|pasta
+🧁|der Muffin|kap kek
+🍫|die Schokolade|çikolata
+🍬|das Bonbon|şekerleme
+🍭|der Lutscher|lolipop
+🍮|der Pudding|puding
+🍯|der Honig|bal
+🧊|der Eiswürfel|buz küpü
+🥛|die Milch|süt
+☕|der Kaffee|kahve
+🍵|der Tee|çay
+🧃|der Saft|meyve suyu
+🥤|trinken|içmek
+🍺|das Bier|bira
+🍷|der Wein|şarap
+🍸|der Cocktail|kokteyl
+🍾|der Sekt|şampanya
+🥂|Prost!|Şerefe!
+🍼|die Babyflasche|biberon
+🚰|das Wasser|su
+🫖|die Teekanne|demlik
+🥃|das Glas|bardak
+🍽️|der Teller|tabak
+🍴|das Besteck|çatal bıçak
+🥄|der Löffel|kaşık
+🔪|das Messer|bıçak
+🥢|die Stäbchen|yemek çubukları
+# Körper und Gesundheit|Vücut ve sağlık
+👁️|das Auge|göz
+👂|das Ohr|kulak
+👃|die Nase|burun
+👄|der Mund|ağız
+👅|die Zunge|dil
+🦷|der Zahn|diş
+🧠|das Gehirn|beyin
+🫀|das Herz|kalp
+🫁|die Lunge|akciğer
+🦴|der Knochen|kemik
+💪|der Arm|kol
+🦵|das Bein|bacak
+🦶|der Fuß|ayak
+✋|die Hand|el
+👆|der Finger|parmak
+💅|die Fingernägel|tırnaklar
+👣|die Fußspuren|ayak izleri
+🧔|der Bart|sakal
+💇|die Haare|saç
+🩸|das Blut|kan
+💊|die Tablette|hap
+💉|die Spritze|iğne
+🩹|das Pflaster|yara bandı
+🩺|das Stethoskop|stetoskop
+🌡️|das Thermometer|termometre
+🤒|krank|hasta
+🤧|der Schnupfen|nezle
+😷|die Maske|maske
+🤕|verletzt|yaralı
+🤢|die Übelkeit|mide bulantısı
+🦠|das Virus|virüs
+🧬|die DNA|DNA
+🦽|der Rollstuhl|tekerlekli sandalye
+🤰|schwanger|hamile
+💤|der Schlaf|uyku
+🧴|die Creme|krem
+🧼|die Seife|sabun
+🪥|die Zahnbürste|diş fırçası
+🧻|das Toilettenpapier|tuvalet kâğıdı
+💆|die Massage|masaj
+🧖|die Sauna|sauna
+# Kleidung|Giyim
+👕|das T-Shirt|tişört
+👔|das Hemd|gömlek
+👖|die Hose|pantolon
+🩳|die Shorts|şort
+👗|das Kleid|elbise
+👚|die Bluse|bluz
+🧥|der Mantel|palto
+🧣|der Schal|atkı
+🧤|die Handschuhe|eldiven
+🧦|die Socken|çorap
+👟|der Turnschuh|spor ayakkabı
+👞|der Schuh|ayakkabı
+👠|der Stöckelschuh|topuklu ayakkabı
+👢|der Stiefel|çizme
+🩴|die Flipflops|parmak arası terlik
+🥾|der Wanderschuh|yürüyüş botu
+👒|der Hut|şapka
+🧢|die Kappe|kep
+🎩|der Zylinder|silindir şapka
+👑|die Krone|taç
+💍|der Ring|yüzük
+💎|der Diamant|elmas
+📿|die Halskette|kolye
+⌚|die Armbanduhr|kol saati
+👓|die Brille|gözlük
+🕶️|die Sonnenbrille|güneş gözlüğü
+👜|die Handtasche|el çantası
+🎒|der Rucksack|sırt çantası
+💼|die Aktentasche|evrak çantası
+🧳|der Koffer|bavul
+👛|das Portemonnaie|cüzdan
+☂️|der Regenschirm|şemsiye
+👙|der Bikini|bikini
+🩱|der Badeanzug|mayo
+🩲|die Unterhose|külot
+🥼|der Kittel|önlük
+🦺|die Weste|yelek
+🎽|das Trikot|forma
+🎀|die Schleife|fiyonk
+🧵|der Faden|iplik
+🧶|die Wolle|yün
+🪡|die Nadel|dikiş iğnesi
+🧷|die Sicherheitsnadel|çengelli iğne
+💄|der Lippenstift|ruj
+# Menschen und Familie|İnsanlar ve aile
+👶|das Baby|bebek
+🧒|das Kind|çocuk
+👦|der Junge|erkek çocuk
+👧|das Mädchen|kız çocuk
+👨|der Mann|adam
+👩|die Frau|kadın
+👴|der Großvater|dede
+👵|die Großmutter|büyükanne
+👪|die Familie|aile
+🤱|die Mutter|anne
+👨‍👧|der Vater|baba
+👫|das Paar|çift
+👭|die Freundinnen|kız arkadaşlar
+👬|die Freunde|arkadaşlar
+👰|die Braut|gelin
+🤵|der Bräutigam|damat
+💑|das Liebespaar|sevgililer
+💋|der Kuss|öpücük
+🤝|der Handschlag|el sıkışma
+👥|die Gruppe|grup
+👤|die Person|kişi
+🧓|der ältere Mensch|yaşlı insan
+👸|die Prinzessin|prenses
+🤴|der Prinz|prens
+🦸|der Superheld|süper kahraman
+🧙|der Zauberer|büyücü
+🧚|die Fee|peri
+🧛|der Vampir|vampir
+🧜|die Meerjungfrau|deniz kızı
+👻|das Gespenst|hayalet
+👽|der Außerirdische|uzaylı
+🤖|der Roboter|robot
+🎅|der Weihnachtsmann|Noel Baba
+🤡|der Clown|palyaço
+👼|der Engel|melek
+😈|der Teufel|şeytan
+💀|der Schädel|kafatası
+🧟|der Zombie|zombi
+👹|das Monster|canavar
+🥷|der Ninja|ninja
+# Berufe|Meslekler
+👨‍⚕️|der Arzt|doktor (erkek)
+👩‍⚕️|die Ärztin|doktor (kadın)
+👨‍🏫|der Lehrer|öğretmen (erkek)
+👩‍🏫|die Lehrerin|öğretmen (kadın)
+👨‍🎓|der Student|üniversite öğrencisi (erkek)
+👩‍🎓|die Studentin|üniversite öğrencisi (kadın)
+👨‍🍳|der Koch|aşçı (erkek)
+👩‍🍳|die Köchin|aşçı (kadın)
+👨‍🌾|der Bauer|çiftçi (erkek)
+👩‍🌾|die Bäuerin|çiftçi (kadın)
+👨‍🔧|der Mechaniker|tamirci (erkek)
+👩‍🔧|die Mechanikerin|tamirci (kadın)
+👨‍🏭|der Arbeiter|işçi
+👨‍💼|der Geschäftsmann|iş adamı
+👩‍💼|die Geschäftsfrau|iş kadını
+👨‍🔬|der Wissenschaftler|bilim insanı (erkek)
+👩‍🔬|die Wissenschaftlerin|bilim insanı (kadın)
+👨‍💻|der Programmierer|programcı (erkek)
+👩‍💻|die Programmiererin|programcı (kadın)
+👨‍🎤|der Sänger|şarkıcı (erkek)
+👩‍🎤|die Sängerin|şarkıcı (kadın)
+👨‍🎨|der Maler|ressam (erkek)
+👩‍🎨|die Malerin|ressam (kadın)
+👨‍✈️|der Pilot|pilot (erkek)
+👩‍✈️|die Pilotin|pilot (kadın)
+👨‍🚀|der Astronaut|astronot
+👨‍🚒|der Feuerwehrmann|itfaiyeci (erkek)
+👩‍🚒|die Feuerwehrfrau|itfaiyeci (kadın)
+👮‍♂️|der Polizist|polis (erkek)
+👮‍♀️|die Polizistin|polis (kadın)
+👨‍⚖️|der Richter|hâkim (erkek)
+👩‍⚖️|die Richterin|hâkim (kadın)
+👷‍♂️|der Bauarbeiter|inşaat işçisi
+🕵️|der Detektiv|dedektif
+💂|der Wächter|muhafız
+🤹|der Jongleur|jonglör
+🕺|der Tänzer|dansçı
+💈|der Friseur|berber
+# Haus|Ev
+🏠|das Haus|ev
+🏡|der Garten|bahçe
+🚪|die Tür|kapı
+🪟|das Fenster|pencere
+🛏️|das Bett|yatak
+🛋️|das Sofa|kanepe
+🪑|der Stuhl|sandalye
+🚽|die Toilette|tuvalet
+🚿|die Dusche|duş
+🛁|die Badewanne|küvet
+🪞|der Spiegel|ayna
+🧸|der Teddybär|oyuncak ayı
+🖼️|das Bild|resim, tablo
+🕰️|die Uhr|saat
+⏰|der Wecker|çalar saat
+💡|die Glühbirne|ampul
+🔦|die Taschenlampe|el feneri
+🕯️|die Kerze|mum
+🔑|der Schlüssel|anahtar
+🔒|das Schloss|kilit
+🧹|der Besen|süpürge
+🧺|die Wäsche|çamaşır
+🧽|der Schwamm|sünger
+🪣|der Eimer|kova
+🗑️|der Mülleimer|çöp kutusu
+🧯|der Feuerlöscher|yangın söndürücü
+🪜|die Leiter|merdiven
+🛗|der Aufzug|asansör
+🧱|die Ziegel|tuğla
+🪴|die Zimmerpflanze|saksı bitkisi
+📦|das Paket|koli
+🪒|der Rasierer|tıraş bıçağı
+🛎️|die Klingel|zil
+🔔|die Glocke|çan
+🪵|das Holz|odun
+🛖|die Hütte|kulübe
+⛺|das Zelt|çadır
+🪧|das Schild|tabela
+🏺|die Vase|vazo
+🪤|die Mausefalle|fare kapanı
+# Stadt|Şehir
+🏙️|die Stadt|şehir
+🏘️|das Dorf|köy
+🏢|das Bürogebäude|ofis binası
+🏬|das Kaufhaus|büyük mağaza
+🏪|der Laden|dükkân
+🏫|die Schule|okul
+🏥|das Krankenhaus|hastane
+🏦|die Bank|banka
+🏨|das Hotel|otel
+🏤|die Post|postane
+🏛️|das Museum|müze
+⛪|die Kirche|kilise
+🕌|die Moschee|cami
+🕍|die Synagoge|sinagog
+🏭|die Fabrik|fabrika
+🏟️|das Stadion|stadyum
+🏰|die Burg|kale
+🗼|der Turm|kule
+🗽|die Freiheitsstatue|Özgürlük Heykeli
+🌉|die Brücke|köprü
+⛲|der Brunnen|çeşme
+🎡|das Riesenrad|dönme dolap
+🎢|die Achterbahn|hız treni
+🎠|das Karussell|atlıkarınca
+🎪|der Zirkus|sirk
+🏞️|der Park|park
+🛣️|die Autobahn|otoyol
+🛤️|die Gleise|raylar
+🚏|die Haltestelle|durak
+🚦|die Ampel|trafik ışığı
+🚧|die Baustelle|şantiye
+⛽|die Tankstelle|benzin istasyonu
+🅿️|der Parkplatz|otopark
+🚻|die Toiletten|tuvaletler
+🏧|der Geldautomat|bankamatik
+🛒|der Einkaufswagen|alışveriş arabası
+🛍️|einkaufen|alışveriş yapmak
+🗺️|die Landkarte|harita
+🧭|der Kompass|pusula
+📮|der Briefkasten|posta kutusu
+🏗️|der Kran|vinç
+🏖️|der Strand|plaj
+🏝️|die Insel|ada
+🏕️|der Campingplatz|kamp alanı
+🗿|die Statue|heykel
+🎭|das Theater|tiyatro
+🎬|das Kino|sinema
+🏚️|die Ruine|harabe
+⛔|verboten|yasak
+🚭|Rauchen verboten|sigara içmek yasak
+⚠️|die Warnung|uyarı
+📍|der Ort|yer
+# Verkehr|Ulaşım
+🚗|das Auto|araba
+🚕|das Taxi|taksi
+🚌|der Bus|otobüs
+🏎️|der Rennwagen|yarış arabası
+🚓|das Polizeiauto|polis arabası
+🚑|der Krankenwagen|ambulans
+🚒|das Feuerwehrauto|itfaiye aracı
+🚐|der Kleinbus|minibüs
+🚚|der Lastwagen|kamyon
+🚜|der Traktor|traktör
+🚙|der Geländewagen|arazi aracı
+🏍️|das Motorrad|motosiklet
+🛵|der Motorroller|skuter
+🚲|das Fahrrad|bisiklet
+🛴|der Tretroller|trotinet
+🛹|das Skateboard|kaykay
+🚂|die Lokomotive|lokomotif
+🚆|der Zug|tren
+🚇|die U-Bahn|metro
+🚊|die Straßenbahn|tramvay
+🚄|der Schnellzug|hızlı tren
+🚃|der Waggon|vagon
+🚉|der Bahnhof|tren istasyonu
+✈️|das Flugzeug|uçak
+🛫|der Abflug|kalkış
+🛬|die Landung|iniş
+🚁|der Hubschrauber|helikopter
+🚀|die Rakete|roket
+🛸|das UFO|ufo
+🛰️|der Satellit|uydu
+⛵|das Segelboot|yelkenli
+🚤|das Motorboot|sürat teknesi
+🚢|das Schiff|gemi
+⛴️|die Fähre|feribot
+🛶|das Kanu|kano
+⚓|der Anker|çapa
+🚠|die Seilbahn|teleferik
+🎫|die Fahrkarte|bilet
+🛂|die Passkontrolle|pasaport kontrolü
+🛄|das Gepäck|bagaj
+🛑|das Stoppschild|dur işareti
+🚨|die Sirene|siren
+🪂|der Fallschirm|paraşüt
+# Natur und Wetter|Doğa ve hava
+☀️|die Sonne|güneş
+🌙|der Mond|ay
+⭐|der Stern|yıldız
+🌍|die Erde|dünya
+🪐|der Planet|gezegen
+☁️|die Wolke|bulut
+⛅|bewölkt|bulutlu
+🌤️|sonnig|güneşli
+🌧️|der Regen|yağmur
+⛈️|das Gewitter|gök gürültülü fırtına
+⚡|der Blitz|şimşek
+❄️|der Schnee|kar
+🌨️|der Schneefall|kar yağışı
+☃️|der Schneemann|kardan adam
+🌬️|der Wind|rüzgâr
+🌪️|der Tornado|hortum
+🌫️|der Nebel|sis
+🌈|der Regenbogen|gökkuşağı
+🔥|das Feuer|ateş
+💧|der Tropfen|damla
+🌊|die Welle|dalga
+🏔️|der Berg|dağ
+🌋|der Vulkan|yanardağ
+🏜️|die Wüste|çöl
+🌲|der Tannenbaum|çam ağacı
+🌳|der Baum|ağaç
+🌴|die Palme|palmiye
+🌵|der Kaktus|kaktüs
+🌱|die Pflanze|bitki
+☘️|der Klee|yonca
+🍁|das Ahornblatt|akçaağaç yaprağı
+🍂|das Laub|sonbahar yaprakları
+🍃|das Blatt|yaprak
+🌷|die Tulpe|lale
+🌹|die Rose|gül
+🌻|die Sonnenblume|ayçiçeği
+🌼|die Blume|çiçek
+🌸|die Kirschblüte|kiraz çiçeği
+💐|der Blumenstrauß|çiçek buketi
+🪨|der Stein|taş
+🌾|das Getreide|tahıl
+🐚|die Muschel|deniz kabuğu
+🌅|der Sonnenaufgang|gün doğumu
+🌇|der Sonnenuntergang|gün batımı
+🌃|die Nacht|gece
+🌌|die Milchstraße|Samanyolu
+🌠|die Sternschnuppe|kayan yıldız
+☄️|der Komet|kuyruklu yıldız
+🌕|der Vollmond|dolunay
+🌑|der Neumond|yeni ay
+🕳️|das Loch|delik
+🥶|kalt|soğuk
+🥵|heiß|sıcak
+# Schule und Büro|Okul ve ofis
+📚|die Bücher|kitaplar
+📕|das Buch|kitap
+📖|lesen|okumak
+📓|das Heft|defter
+📝|die Notiz|not
+✏️|der Bleistift|kurşun kalem
+🖊️|der Kugelschreiber|tükenmez kalem
+🖋️|der Füller|dolma kalem
+🖍️|der Wachsmalstift|pastel boya
+🖌️|der Pinsel|fırça
+📏|das Lineal|cetvel
+📐|das Geodreieck|gönye
+✂️|die Schere|makas
+📎|die Büroklammer|ataş
+📌|die Reißzwecke|raptiye
+🧮|der Abakus|abaküs
+📅|der Kalender|takvim
+📁|der Ordner|klasör
+📋|die Liste|liste
+📊|das Diagramm|grafik
+📰|die Zeitung|gazete
+📄|das Papier|kâğıt
+✉️|der Brief|mektup
+📧|die E-Mail|e-posta
+🏷️|das Etikett|etiket
+🔖|das Lesezeichen|kitap ayracı
+🗒️|der Notizblock|not defteri
+🗄️|der Aktenschrank|dosya dolabı
+🎓|der Abschluss|mezuniyet
+🔬|das Mikroskop|mikroskop
+🔭|das Teleskop|teleskop
+🧪|das Reagenzglas|deney tüpü
+🌐|das Internet|internet
+💬|die Nachricht|mesaj
+❓|die Frage|soru
+❗|das Ausrufezeichen|ünlem işareti
+✅|richtig|doğru
+❌|falsch|yanlış
+🔤|das Alphabet|alfabe
+🔢|die Zahlen|sayılar
+➕|plus|artı
+➖|minus|eksi
+✖️|mal|çarpı
+➗|geteilt durch|bölü
+# Technik|Teknoloji
+📱|das Handy|cep telefonu
+☎️|das Telefon|telefon
+💻|der Laptop|dizüstü bilgisayar
+🖥️|der Computer|bilgisayar
+⌨️|die Tastatur|klavye
+🖱️|die Computermaus|bilgisayar faresi
+🖨️|der Drucker|yazıcı
+📷|die Kamera|fotoğraf makinesi
+📸|das Foto|fotoğraf
+🎥|die Filmkamera|film kamerası
+🎞️|der Film|film
+📺|der Fernseher|televizyon
+📻|das Radio|radyo
+🎤|das Mikrofon|mikrofon
+🎧|die Kopfhörer|kulaklık
+🔋|die Batterie|pil
+🔌|der Stecker|fiş
+💾|die Diskette|disket
+💿|die CD|CD
+🎮|das Videospiel|video oyunu
+🕹️|der Joystick|oyun kolu
+📡|die Antenne|anten
+🔍|die Lupe|büyüteç
+⏱️|die Stoppuhr|kronometre
+⌛|die Sanduhr|kum saati
+📞|der Anruf|telefon araması
+🔊|laut|yüksek sesli
+🔇|stumm|sessiz
+🔗|der Link|bağlantı
+🔐|das Passwort|parola
+📠|das Faxgerät|faks cihazı
+# Sport und Spiel|Spor ve oyun
+⚽|der Fußball|futbol
+🏀|der Basketball|basketbol
+🏈|der Football|Amerikan futbolu
+⚾|der Baseball|beyzbol
+🎾|das Tennis|tenis
+🏐|der Volleyball|voleybol
+🏉|das Rugby|ragbi
+🎱|das Billard|bilardo
+🏓|das Tischtennis|masa tenisi
+🏸|das Badminton|badminton
+🥅|das Tor|kale (futbol)
+🏒|das Eishockey|buz hokeyi
+⛳|das Golf|golf
+🏹|das Bogenschießen|okçuluk
+🎣|das Angeln|balık tutma
+🥊|das Boxen|boks
+🥋|das Karate|karate
+⛸️|der Schlittschuh|buz pateni
+🎿|der Ski|kayak
+🛷|der Schlitten|kızak
+🏂|das Snowboard|snowboard
+🏋️|das Gewichtheben|halter
+🤸|das Turnen|jimnastik
+🤼|das Ringen|güreş
+🏇|das Reiten|binicilik
+🧗|das Klettern|tırmanış
+🏄|das Surfen|sörf
+🚣|das Rudern|kürek çekme
+🤿|das Tauchen|dalış
+🤾|der Handball|hentbol
+🤺|das Fechten|eskrim
+🧘|das Yoga|yoga
+🚵|das Mountainbike|dağ bisikleti
+🏆|der Pokal|kupa
+🥇|die Goldmedaille|altın madalya
+🥈|die Silbermedaille|gümüş madalya
+🥉|die Bronzemedaille|bronz madalya
+🎯|die Zielscheibe|hedef tahtası
+🎳|das Bowling|bovling
+🎲|der Würfel|zar
+♟️|das Schach|satranç
+🧩|das Puzzle|yapboz
+🃏|die Spielkarte|oyun kâğıdı
+🪁|der Drachen|uçurtma
+🎈|der Luftballon|balon
+🪀|das Jo-Jo|yoyo
+🛼|der Rollschuh|paten
+🪃|der Bumerang|bumerang
+# Musik und Kunst|Müzik ve sanat
+🎵|die Musik|müzik
+🎶|die Melodie|melodi
+🎸|die Gitarre|gitar
+🎹|das Klavier|piyano
+🎺|die Trompete|trompet
+🎷|das Saxofon|saksafon
+🎻|die Geige|keman
+🥁|die Trommel|davul
+🪗|das Akkordeon|akordeon
+🪕|das Banjo|banço
+🎨|die Farbpalette|boya paleti
+🩰|das Ballett|bale
+📢|das Megafon|megafon
+🎟️|die Eintrittskarte|giriş bileti
+# Gefühle und Eigenschaften|Duygular ve sıfatlar
+😀|fröhlich|neşeli
+😊|glücklich|mutlu
+😢|traurig|üzgün
+😡|wütend|öfkeli
+😱|erschrocken|korkmuş
+😨|ängstlich|endişeli
+😴|müde|yorgun
+😍|verliebt|âşık
+😎|cool|havalı
+😮|überrascht|şaşırmış
+😑|gelangweilt|sıkılmış
+😳|verlegen|utanmış
+🤩|begeistert|hayran kalmış
+😇|brav|uslu
+🤪|verrückt|çılgın
+😋|lecker|lezzetli
+😔|enttäuscht|hayal kırıklığına uğramış
+😰|nervös|gergin
+🙄|genervt|bıkmış
+🤑|reich|zengin
+🤓|schlau|zeki
+🤯|geschockt|şoke olmuş
+😌|entspannt|rahatlamış
+😕|verwirrt|kafası karışmış
+😜|frech|yaramaz
+🙂|zufrieden|memnun
+🙁|unzufrieden|memnun değil
+❤️|die Liebe|aşk
+💔|das gebrochene Herz|kırık kalp
+👍|gut|iyi
+👎|schlecht|kötü
+👌|perfekt|mükemmel
+🆕|neu|yeni
+🆓|gratis|ücretsiz
+⬆️|oben|yukarı
+⬇️|unten|aşağı
+⬅️|links|sol
+➡️|rechts|sağ
+↩️|zurück|geri
+🔜|bald|yakında
+🤏|ein bisschen|biraz
+♾️|unendlich|sonsuz
+# Verben|Fiiller
+🏃|rennen|koşmak
+🚶|gehen|yürümek
+🧍|stehen|ayakta durmak
+🧎|knien|diz çökmek
+🏊|schwimmen|yüzmek
+🚴|Rad fahren|bisiklet sürmek
+💃|tanzen|dans etmek
+🛌|schlafen|uyumak
+🛀|baden|banyo yapmak
+👋|winken|el sallamak
+👏|klatschen|alkışlamak
+🙏|beten|dua etmek
+✍️|schreiben|yazmak
+👀|sehen|görmek
+🗣️|sprechen|konuşmak
+🤔|denken|düşünmek
+😂|lachen|gülmek
+😭|weinen|ağlamak
+🥱|gähnen|esnemek
+🤮|sich übergeben|kusmak
+🫂|umarmen|sarılmak
+🙋|sich melden|parmak kaldırmak
+🤷|nicht wissen|bilmemek
+🙅|Nein!|Hayır!
+🙇|sich entschuldigen|özür dilemek
+🥳|feiern|kutlamak
+🤥|lügen|yalan söylemek
+🤫|Pst! Leise!|Şşt! Sessiz!
+👉|zeigen|göstermek
+🤙|anrufen|telefon etmek
+👊|schlagen|vurmak
+🤞|Viel Glück!|Bol şans!
+🤚|Stopp!|Dur!
+🚮|wegwerfen|çöpe atmak
+💭|träumen|hayal kurmak
+🤳|das Selfie|selfie
+💸|Geld ausgeben|para harcamak
+# Geld und Dinge|Para ve eşyalar
+💰|das Geld|para
+💵|der Geldschein|banknot
+🪙|die Münze|madeni para
+💶|der Euro|avro
+💳|die Kreditkarte|kredi kartı
+🧾|die Rechnung|fiş
+🔨|der Hammer|çekiç
+🪓|die Axt|balta
+⛏️|die Spitzhacke|kazma
+🔧|der Schraubenschlüssel|İngiliz anahtarı
+🪛|der Schraubenzieher|tornavida
+🔩|die Schraube|vida
+⚙️|das Zahnrad|dişli
+🪚|die Säge|testere
+🧰|der Werkzeugkasten|alet çantası
+🛠️|das Werkzeug|alet
+🧲|der Magnet|mıknatıs
+⛓️|die Kette|zincir
+🪝|der Haken|kanca
+🪢|der Knoten|düğüm
+🔫|die Wasserpistole|su tabancası
+💣|die Bombe|bomba
+⚔️|die Schwerter|kılıçlar
+🛡️|der Schild|kalkan
+🚬|die Zigarette|sigara
+🔮|die Kristallkugel|kristal küre
+⚖️|die Waage|terazi
+🪄|der Zauberstab|sihirli değnek
+🛢️|das Fass|varil
+🧿|das Nazar-Amulett|nazar boncuğu
+# Zahlen, Farben, Formen|Sayılar, renkler, şekiller
+0️⃣|null|sıfır
+1️⃣|eins|bir
+2️⃣|zwei|iki
+3️⃣|drei|üç
+4️⃣|vier|dört
+5️⃣|fünf|beş
+6️⃣|sechs|altı
+7️⃣|sieben|yedi
+8️⃣|acht|sekiz
+9️⃣|neun|dokuz
+🔟|zehn|on
+💯|hundert|yüz
+🔴|rot|kırmızı
+🟠|orange|turuncu
+🟡|gelb|sarı
+🟢|grün|yeşil
+🔵|blau|mavi
+🟣|lila|mor
+🟤|braun|kahverengi
+⚫|schwarz|siyah
+⚪|weiß|beyaz
+🟥|das Quadrat|kare
+🔺|das Dreieck|üçgen
+⭕|der Kreis|daire
+🔷|die Raute|eşkenar dörtgen
+✝️|das Kreuz|haç
+🚩|die Flagge|bayrak
+🏁|die Zielflagge|bitiş bayrağı
+🏴‍☠️|die Piratenflagge|korsan bayrağı
+# Uhrzeit und Feste|Saatler ve kutlamalar
+🕐|ein Uhr|saat bir
+🕑|zwei Uhr|saat iki
+🕒|drei Uhr|saat üç
+🕓|vier Uhr|saat dört
+🕔|fünf Uhr|saat beş
+🕕|sechs Uhr|saat altı
+🕖|sieben Uhr|saat yedi
+🕗|acht Uhr|saat sekiz
+🕘|neun Uhr|saat dokuz
+🕙|zehn Uhr|saat on
+🕚|elf Uhr|saat on bir
+🕛|zwölf Uhr|saat on iki
+🕧|halb eins|on iki buçuk
+🕜|halb zwei|bir buçuk
+🕝|halb drei|iki buçuk
+🕞|halb vier|üç buçuk
+🕟|halb fünf|dört buçuk
+🕠|halb sechs|beş buçuk
+🕡|halb sieben|altı buçuk
+🕢|halb acht|yedi buçuk
+🕣|halb neun|sekiz buçuk
+🕤|halb zehn|dokuz buçuk
+🌆|der Abend|akşam
+🎄|der Weihnachtsbaum|Noel ağacı
+🎃|der Kürbis|balkabağı
+🎆|das Feuerwerk|havai fişek
+🎉|die Party|parti
+🎊|das Konfetti|konfeti
+🎁|das Geschenk|hediye
+💌|der Liebesbrief|aşk mektubu
+💒|die Hochzeit|düğün
+# Länder|Ülkeler
+🇩🇪|Deutschland|Almanya
+🇹🇷|die Türkei|Türkiye
+🇦🇹|Österreich|Avusturya
+🇨🇭|die Schweiz|İsviçre
+🇫🇷|Frankreich|Fransa
+🇮🇹|Italien|İtalya
+🇪🇸|Spanien|İspanya
+🇵🇹|Portugal|Portekiz
+🇬🇧|Großbritannien|Büyük Britanya
+🇮🇪|Irland|İrlanda
+🇳🇱|die Niederlande|Hollanda
+🇧🇪|Belgien|Belçika
+🇱🇺|Luxemburg|Lüksemburg
+🇩🇰|Dänemark|Danimarka
+🇸🇪|Schweden|İsveç
+🇳🇴|Norwegen|Norveç
+🇫🇮|Finnland|Finlandiya
+🇮🇸|Island|İzlanda
+🇵🇱|Polen|Polonya
+🇨🇿|Tschechien|Çekya
+🇸🇰|die Slowakei|Slovakya
+🇭🇺|Ungarn|Macaristan
+🇷🇴|Rumänien|Romanya
+🇧🇬|Bulgarien|Bulgaristan
+🇬🇷|Griechenland|Yunanistan
+🇭🇷|Kroatien|Hırvatistan
+🇷🇸|Serbien|Sırbistan
+🇧🇦|Bosnien und Herzegowina|Bosna Hersek
+🇦🇱|Albanien|Arnavutluk
+🇸🇮|Slowenien|Slovenya
+🇲🇰|Nordmazedonien|Kuzey Makedonya
+🇽🇰|der Kosovo|Kosova
+🇲🇪|Montenegro|Karadağ
+🇲🇩|Moldawien|Moldova
+🇺🇦|die Ukraine|Ukrayna
+🇧🇾|Belarus|Belarus
+🇷🇺|Russland|Rusya
+🇪🇪|Estland|Estonya
+🇱🇻|Lettland|Letonya
+🇱🇹|Litauen|Litvanya
+🇲🇹|Malta|Malta
+🇨🇾|Zypern|Kıbrıs
+🇪🇺|die Europäische Union|Avrupa Birliği
+🇺🇸|die USA|ABD
+🇨🇦|Kanada|Kanada
+🇲🇽|Mexiko|Meksika
+🇧🇷|Brasilien|Brezilya
+🇦🇷|Argentinien|Arjantin
+🇨🇱|Chile|Şili
+🇨🇴|Kolumbien|Kolombiya
+🇵🇪|Peru|Peru
+🇨🇺|Kuba|Küba
+🇨🇳|China|Çin
+🇯🇵|Japan|Japonya
+🇰🇷|Südkorea|Güney Kore
+🇮🇳|Indien|Hindistan
+🇵🇰|Pakistan|Pakistan
+🇦🇫|Afghanistan|Afganistan
+🇮🇷|der Iran|İran
+🇮🇶|der Irak|Irak
+🇸🇾|Syrien|Suriye
+🇱🇧|der Libanon|Lübnan
+🇯🇴|Jordanien|Ürdün
+🇮🇱|Israel|İsrail
+🇸🇦|Saudi-Arabien|Suudi Arabistan
+🇦🇪|die Vereinigten Arabischen Emirate|Birleşik Arap Emirlikleri
+🇶🇦|Katar|Katar
+🇦🇿|Aserbaidschan|Azerbaycan
+🇬🇪|Georgien|Gürcistan
+🇦🇲|Armenien|Ermenistan
+🇰🇿|Kasachstan|Kazakistan
+🇺🇿|Usbekistan|Özbekistan
+🇹🇭|Thailand|Tayland
+🇻🇳|Vietnam|Vietnam
+🇮🇩|Indonesien|Endonezya
+🇵🇭|die Philippinen|Filipinler
+🇪🇬|Ägypten|Mısır
+🇲🇦|Marokko|Fas
+🇹🇳|Tunesien|Tunus
+🇩🇿|Algerien|Cezayir
+🇿🇦|Südafrika|Güney Afrika
+🇳🇬|Nigeria|Nijerya
+🇪🇹|Äthiopien|Etiyopya
+🇰🇪|Kenia|Kenya
+🇬🇭|Ghana|Gana
+🇸🇳|Senegal|Senegal
+🇦🇺|Australien|Avustralya
+🇳🇿|Neuseeland|Yeni Zelanda

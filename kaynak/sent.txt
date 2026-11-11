@@ -1,0 +1,142 @@
+# Tanışma
+Ich heiße Mehmet.|Benim adım Mehmet.
+Wie heißen Sie?|Adınız ne?
+Ich komme aus der Türkei.|Türkiye'den geliyorum.
+Woher kommen Sie?|Nerelisiniz?
+Ich wohne in Berlin.|Berlin'de oturuyorum.
+Wo wohnst du?|Nerede oturuyorsun?
+Ich bin dreißig Jahre alt.|Otuz yaşındayım.
+Wie alt bist du?|Kaç yaşındasın?
+Ich spreche Türkisch und ein bisschen Deutsch.|Türkçe ve biraz Almanca konuşuyorum.
+Welche Sprachen sprechen Sie?|Hangi dilleri konuşuyorsunuz?
+Ich bin Ingenieur von Beruf.|Mesleğim mühendislik.
+Was sind Sie von Beruf?|Mesleğiniz ne?
+Mein Hobby ist Fußball.|Hobim futbol.
+Ich lerne seit drei Monaten Deutsch.|Üç aydır Almanca öğreniyorum.
+Ich bin verheiratet und habe zwei Kinder.|Evliyim ve iki çocuğum var.
+Meine Telefonnummer ist null eins sieben drei.|Telefon numaram sıfır bir yedi üç.
+Können Sie das bitte buchstabieren?|Bunu harf harf söyleyebilir misiniz lütfen?
+Das ist meine Frau.|Bu benim eşim.
+Wir haben eine Tochter und einen Sohn.|Bir kızımız ve bir oğlumuz var.
+Mein Bruder wohnt in Hamburg.|Erkek kardeşim Hamburg'da oturuyor.
+# Günlük hayat
+Ich stehe um sieben Uhr auf.|Saat yedide kalkıyorum.
+Ich frühstücke um halb acht.|Yedi buçukta kahvaltı ediyorum.
+Dann fahre ich mit dem Bus zur Arbeit.|Sonra otobüsle işe gidiyorum.
+Ich arbeite von acht bis fünf Uhr.|Sekizden beşe kadar çalışıyorum.
+Am Abend sehe ich fern.|Akşam televizyon izliyorum.
+Am Wochenende schlafe ich lange.|Hafta sonu uzun uyuyorum.
+Ich gehe gern ins Kino.|Sinemaya gitmeyi severim.
+Was machst du heute Abend?|Bu akşam ne yapıyorsun?
+Ich habe heute keine Zeit.|Bugün vaktim yok.
+Am Samstag spiele ich Fußball.|Cumartesi futbol oynuyorum.
+Wir kaufen am Freitag ein.|Cuma günü alışveriş yapıyoruz.
+Ich rufe dich morgen an.|Seni yarın arıyorum.
+Meine Kinder gehen in die Schule.|Çocuklarım okula gidiyor.
+Ich lese jeden Tag die Zeitung.|Her gün gazete okuyorum.
+Er kocht heute das Abendessen.|Bugün akşam yemeğini o pişiriyor.
+Ich muss heute lange arbeiten.|Bugün uzun çalışmam lazım.
+Kannst du mir bitte helfen?|Bana yardım edebilir misin lütfen?
+Ich möchte Deutsch lernen.|Almanca öğrenmek istiyorum.
+Das Wetter ist heute schön.|Bugün hava güzel.
+Es regnet und es ist kalt.|Yağmur yağıyor ve hava soğuk.
+# Yemek ve alışveriş
+Ich möchte ein Brot, bitte.|Bir ekmek istiyorum lütfen.
+Was kostet ein Kilo Tomaten?|Bir kilo domates ne kadar?
+Haben Sie auch frische Milch?|Taze sütünüz de var mı?
+Ich hätte gern zwei Kaffee.|İki kahve alabilir miyim.
+Ich nehme die Suppe und einen Salat.|Çorba ve bir salata alıyorum.
+Das Essen schmeckt sehr gut.|Yemek çok lezzetli.
+Ich esse kein Fleisch.|Et yemiyorum.
+Was möchten Sie trinken?|Ne içmek istersiniz?
+Ich trinke lieber Tee als Kaffee.|Çayı kahveye tercih ederim.
+Wir brauchen noch Butter und Eier.|Daha tereyağı ve yumurtaya ihtiyacımız var.
+Wo finde ich den Käse?|Peyniri nerede bulurum?
+Das ist zu teuer.|Bu çok pahalı.
+Kann ich mit Karte bezahlen?|Kartla ödeyebilir miyim?
+Die Hose ist zu klein.|Pantolon çok küçük.
+Haben Sie das auch in Blau?|Bunun mavisi de var mı?
+Der Supermarkt ist bis zwanzig Uhr geöffnet.|Süpermarket saat yirmiye kadar açık.
+Ich habe Hunger und Durst.|Acıktım ve susadım.
+Zum Frühstück esse ich Brot mit Käse.|Kahvaltıda peynirli ekmek yiyorum.
+Möchten Sie noch etwas?|Başka bir şey ister misiniz?
+Die Rechnung, bitte.|Hesap lütfen.
+# Zaman ve randevu
+Wie spät ist es?|Saat kaç?
+Es ist Viertel nach acht.|Saat sekizi çeyrek geçiyor.
+Der Kurs beginnt um neun Uhr.|Kurs saat dokuzda başlıyor.
+Wann hast du Zeit?|Ne zaman vaktin var?
+Ich habe am Montag einen Termin.|Pazartesi günü randevum var.
+Können wir uns morgen treffen?|Yarın buluşabilir miyiz?
+Geht es auch um fünf Uhr?|Saat beşte de olur mu?
+Der Film dauert zwei Stunden.|Film iki saat sürüyor.
+Ich habe im Mai Geburtstag.|Doğum günüm mayısta.
+Heute ist Mittwoch.|Bugün çarşamba.
+Wann ist die Praxis geöffnet?|Muayenehane ne zaman açık?
+Ich komme um halb sieben nach Hause.|Altı buçukta eve geliyorum.
+Am Sonntag besuchen wir meine Eltern.|Pazar günü annemle babamı ziyaret ediyoruz.
+Im Sommer fahren wir in die Türkei.|Yazın Türkiye'ye gidiyoruz.
+Leider kann ich heute nicht kommen.|Maalesef bugün gelemiyorum.
+Bis wann ist die Bank geöffnet?|Banka saat kaça kadar açık?
+# Yol ve ulaşım
+Wo ist der Bahnhof?|Tren istasyonu nerede?
+Gehen Sie geradeaus und dann links.|Dümdüz gidin, sonra sola.
+Wie komme ich zum Rathaus?|Belediye binasına nasıl giderim?
+Der Zug fährt um zehn Uhr ab.|Tren saat onda kalkıyor.
+Wann kommt der Bus an?|Otobüs ne zaman varıyor?
+Ich möchte eine Fahrkarte nach München.|Münih'e bir bilet istiyorum.
+Der Zug hat zwanzig Minuten Verspätung.|Trenin yirmi dakika gecikmesi var.
+Sie müssen in Köln umsteigen.|Köln'de aktarma yapmanız gerekiyor.
+Ich fahre mit dem Fahrrad zur Schule.|Okula bisikletle gidiyorum.
+Ist hier ein Supermarkt in der Nähe?|Buralarda yakında bir süpermarket var mı?
+Die Apotheke ist neben der Post.|Eczane postanenin yanında.
+Ich suche ein Hotel im Zentrum.|Merkezde bir otel arıyorum.
+Haben Sie ein Zimmer frei?|Boş odanız var mı?
+Wo kann ich hier parken?|Burada nereye park edebilirim?
+Von welchem Gleis fährt der Zug?|Tren hangi perondan kalkıyor?
+Wie lange dauert die Fahrt?|Yolculuk ne kadar sürüyor?
+# Ev ve aile
+Meine Wohnung hat drei Zimmer.|Dairemin üç odası var.
+Die Küche ist klein, aber schön.|Mutfak küçük ama güzel.
+Wie hoch ist die Miete?|Kira ne kadar?
+Die Wohnung liegt im zweiten Stock.|Daire ikinci katta.
+Das Wohnzimmer ist groß und hell.|Oturma odası büyük ve aydınlık.
+Wir suchen eine Wohnung mit Balkon.|Balkonlu bir daire arıyoruz.
+Der Tisch steht neben dem Fenster.|Masa pencerenin yanında duruyor.
+Die Waschmaschine ist kaputt.|Çamaşır makinesi bozuk.
+Meine Eltern leben in Izmir.|Annemle babam İzmir'de yaşıyor.
+Meine Schwester ist älter als ich.|Kız kardeşim benden büyük.
+Am Wochenende räume ich die Wohnung auf.|Hafta sonu evi topluyorum.
+Mach bitte das Fenster zu.|Lütfen pencereyi kapat.
+# Sağlık
+Ich habe Kopfschmerzen und Fieber.|Başım ağrıyor ve ateşim var.
+Mein Bauch tut weh.|Karnım ağrıyor.
+Ich brauche einen Termin beim Arzt.|Doktordan randevuya ihtiyacım var.
+Was fehlt Ihnen?|Şikâyetiniz ne?
+Nehmen Sie die Tabletten dreimal am Tag.|Hapları günde üç kez alın.
+Sie müssen viel Wasser trinken.|Çok su içmeniz gerekiyor.
+Ich kann heute nicht arbeiten.|Bugün çalışamıyorum.
+Haben Sie Ihre Versichertenkarte dabei?|Sigorta kartınız yanınızda mı?
+Seit wann haben Sie Schmerzen?|Ne zamandan beri ağrınız var?
+Bleiben Sie bitte zwei Tage im Bett.|Lütfen iki gün yatakta kalın.
+# Rica ve sorular
+Können Sie mir bitte helfen?|Bana yardım edebilir misiniz lütfen?
+Geben Sie mir bitte das Salz.|Bana tuzu verir misiniz lütfen.
+Machen Sie bitte die Tür zu.|Lütfen kapıyı kapatın.
+Kann ich bitte ein Glas Wasser haben?|Bir bardak su alabilir miyim lütfen?
+Sprechen Sie bitte langsam.|Lütfen yavaş konuşun.
+Können Sie das bitte wiederholen?|Bunu tekrar edebilir misiniz lütfen?
+Darf ich hier rauchen?|Burada sigara içebilir miyim?
+Hier dürfen Sie nicht parken.|Buraya park edemezsiniz.
+Wo ist die Toilette, bitte?|Tuvalet nerede lütfen?
+Füllen Sie bitte das Formular aus.|Lütfen formu doldurun.
+Was machst du am Wochenende?|Hafta sonu ne yapıyorsun?
+Trinkst du gern Kaffee?|Kahve içmeyi sever misin?
+Wann stehst du am Sonntag auf?|Pazar günü ne zaman kalkıyorsun?
+Wie viele Geschwister hast du?|Kaç kardeşin var?
+Was isst du gern zum Frühstück?|Kahvaltıda ne yemeyi seversin?
+Hast du am Samstag Zeit?|Cumartesi vaktin var mı?
+Kommst du mit ins Kino?|Sinemaya benimle gelir misin?
+Rufen Sie mich bitte morgen an.|Lütfen beni yarın arayın.
+Bringen Sie mir bitte die Speisekarte.|Bana menüyü getirir misiniz lütfen.
+Schreiben Sie bitte Ihren Namen.|Lütfen adınızı yazın.

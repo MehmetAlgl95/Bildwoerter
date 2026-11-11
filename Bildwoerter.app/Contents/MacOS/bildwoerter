@@ -1,0 +1,11 @@
+#!/bin/bash
+# Bildwörter'i tarayıcı çubuğu olmayan ayrı bir pencerede açar.
+DIR="$(cd "$(dirname "$0")/../Resources" && pwd)"
+URL="file://$(printf '%s' "$DIR/index.html" | sed 's/ /%20/g')"
+for B in "Google Chrome" "Microsoft Edge" "Brave Browser" "Chromium"; do
+  if [ -d "/Applications/$B.app" ]; then
+    open -na "$B" --args --app="$URL" --window-size=1240,880
+    exit 0
+  fi
+done
+open "$DIR/index.html"
